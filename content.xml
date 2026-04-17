@@ -1,0 +1,1225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202604171027458MBLOE</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260417102745CCKH3R</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SDA B2 DIGITALIZACION</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Octavio Barrientos Álvarez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje para trabajar los contenidos del RA de calidad del módulo Técnicas Generales de Laboratorio del CFGS de Laboratorio Clínico y Biomédico.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776414419148</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mo2na27p-n0s8b68kp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Elaboración de un PNT para preparar disoluciones.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elaboración de un PNT para preparar disoluciones.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elaboración de un PNT para preparar disoluciones.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Elaboración de un PNT para preparar disoluciones.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo2na27p-n0s8b68kp</odePageId>
+      <odeBlockId>block-1776324975868-rlfp3sw0j</odeBlockId>
+      <blockName>Etapa educativa, nivel y módulos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo2na27p-n0s8b68kp</odePageId>
+          <odeBlockId>block-1776324975868-rlfp3sw0j</odeBlockId>
+          <odeIdeviceId>idevice-1776324975864-7hjot4310</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje se dirige al alumnado de 1º del CFGS de Laboratorio Clínico y Biomédico, concretamente para el módulo de Técnicas Generales de Laboratorio.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776324975864-7hjot4310","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje se dirige al alumnado de 1º del CFGS de Laboratorio Clínico y Biomédico, concretamente para el módulo de Técnicas Generales de Laboratorio.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo2na27p-n0s8b68kp</odePageId>
+      <odeBlockId>block-1776325538451-otgek184o</odeBlockId>
+      <blockName>Agrupamientos y organización espacial</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo2na27p-n0s8b68kp</odePageId>
+          <odeBlockId>block-1776325538451-otgek184o</odeBlockId>
+          <odeIdeviceId>idevice-1776325538449-24wf0v27x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado trabajará de forma autónoma en grupos de 4. Podrán emplear tanto la zona de clases expositivas del aula como la zona de laboratorio.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776325538449-24wf0v27x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado trabajará de forma autónoma en grupos de 4. Podrán emplear tanto la zona de clases expositivas del aula como la zona de laboratorio.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo2na27p-n0s8b68kp</odePageId>
+      <odeBlockId>block-1776326136642-edgdf2yba</odeBlockId>
+      <blockName>Desarrollo de la tarea</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo2na27p-n0s8b68kp</odePageId>
+          <odeBlockId>block-1776326136642-edgdf2yba</odeBlockId>
+          <odeIdeviceId>idevice-1776326136638-61j4h81j7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Sesiones previstas">Sesiones previstas</span></dt><dd>2 (6 horas)</dd></div><div class="inline"><dt><span title="Alumnado por grupo">Alumnado por grupo</span></dt><dd>4</dd></div></dl><p>La tarea se divide en dos actividades diferentes.<br /><br />En primer lugar, el alumnado deberá elaborar un Proceso Normalizado de Trabajo (PNT) en el que se describa detalladamente y de acuerdo con con las normas de calidad el proceso de elaboración de una valoración ácido-base.</p>
+<p>Una vez revisado, se repartirán los PNTs aleatoriamente entre los equipos del grupo para que se lleve a cabo la valoración siguiendo a rajatabla el procedimiento, con el fin de detectar los errores del PNT y corregirlos. El alumnado grabará en video la ejecución del procedimiento.</p>
+<p>La segunda actividad consiste en elaborar una infografía en la que se explique el proceso de mejora continua PDCA: Planificar – Hacer – Verificar – Actuar llevado a cabo en la actividad previa y defenderla en el aula ante sus compañeros.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776326136638-61j4h81j7","textInfoDurationInput":"2 (6 horas)","textInfoDurationTextInput":"Sesiones previstas","textInfoParticipantsInput":"4","textInfoParticipantsTextInput":"Alumnado por grupo","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Sesiones previstas\">Sesiones previstas</span></dt><dd>2 (6 horas)</dd></div><div class=\"inline\"><dt><span title=\"Alumnado por grupo\">Alumnado por grupo</span></dt><dd>4</dd></div></dl><p>La tarea se divide en dos actividades diferentes.<br /><br />En primer lugar, el alumnado deberá elaborar un Proceso Normalizado de Trabajo (PNT) en el que se describa detalladamente y de acuerdo con con las normas de calidad el proceso de elaboración de una valoración ácido-base.</p>\n<p>Una vez revisado, se repartirán los PNTs aleatoriamente entre los equipos del grupo para que se lleve a cabo la valoración siguiendo a rajatabla el procedimiento, con el fin de detectar los errores del PNT y corregirlos. El alumnado grabará en video la ejecución del procedimiento.</p>\n<p>La segunda actividad consiste en elaborar una infografía en la que se explique el proceso de mejora continua PDCA: Planificar – Hacer – Verificar – Actuar llevado a cabo en la actividad previa y defenderla en el aula ante sus compañeros.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo2na27p-n0s8b68kp</odePageId>
+      <odeBlockId>block-1776326869563-t6agwpxhh</odeBlockId>
+      <blockName>Recursos tecnológicos empleados</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo2na27p-n0s8b68kp</odePageId>
+          <odeBlockId>block-1776326869563-t6agwpxhh</odeBlockId>
+          <odeIdeviceId>idevice-1776326869559-5y2l7fqel</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado se apoyará plenamente en herramientas digitales en la realización de la tarea.</p>
+<p>El PNT elaborado en primer lugar se hará en Word o similar; y la infografía final se elaborará con PowerPoint, Canva, Prezi o alguna herramienta de IA. Para ello, el alumnado podrá disponer de ordenadores propios y tendrá a su disposición los ordenadores del centro.</p>
+<p>Por otro lado, en la realización del trabajo práctico se emplearán los recursos tecnológicos propios del laboratorio (balanzas, pHímetros, etc.), así como los teléfonos móviles para grabar el procedimiento realizado.</p>
+<p>Por último, a la hora de montar el vídeo se empleará alguna herramienta de edición como ClipChamp.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776326869559-5y2l7fqel","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado se apoyará plenamente en herramientas digitales en la realización de la tarea.</p>\n<p>El PNT elaborado en primer lugar se hará en Word o similar; y la infografía final se elaborará con PowerPoint, Canva, Prezi o alguna herramienta de IA. Para ello, el alumnado podrá disponer de ordenadores propios y tendrá a su disposición los ordenadores del centro.</p>\n<p>Por otro lado, en la realización del trabajo práctico se emplearán los recursos tecnológicos propios del laboratorio (balanzas, pHímetros, etc.), así como los teléfonos móviles para grabar el procedimiento realizado.</p>\n<p>Por último, a la hora de montar el vídeo se empleará alguna herramienta de edición como ClipChamp.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo2na27s-0wtrppdnw</odePageId>
+  <odeParentPageId>page-mo2na27p-n0s8b68kp</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo2na27s-0wtrppdnw</odePageId>
+      <odeBlockId>block-1776327372740-npxyk605y</odeBlockId>
+      <blockName>Justificación del desarrollo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo2na27s-0wtrppdnw</odePageId>
+          <odeBlockId>block-1776327372740-npxyk605y</odeBlockId>
+          <odeIdeviceId>idevice-1776327372737-pjz9pzmyv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta tarea se plantea con el fin de relacionar las actividades realizadas a lo largo del curso con el último RA trabajado en el módulo relacionado con la calidad. El objetivo es que el alumnado tenga un contacto más o menos cercano con los entornos de calidad de aplicación en las diferentes empresas del sector. </p>
+<p>La temporalización es adecuada, ya que el alumnado ha pasado el mes previo realizando las prácticas en empresa, por lo que es posible que ya hayan estado en contacto de forma tangencial con estos contextos.</p>
+<p>Un adecuado desarrollo de la tarea permitirá obtener una visión holística del proceso de calidad y de su relevancia en contextos de actividad profesional en los que la fiabilidad es fundamental como es el caso del laboratorio clínico y biomédico.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776327372737-pjz9pzmyv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta tarea se plantea con el fin de relacionar las actividades realizadas a lo largo del curso con el último RA trabajado en el módulo relacionado con la calidad. El objetivo es que el alumnado tenga un contacto más o menos cercano con los entornos de calidad de aplicación en las diferentes empresas del sector. </p>\n<p>La temporalización es adecuada, ya que el alumnado ha pasado el mes previo realizando las prácticas en empresa, por lo que es posible que ya hayan estado en contacto de forma tangencial con estos contextos.</p>\n<p>Un adecuado desarrollo de la tarea permitirá obtener una visión holística del proceso de calidad y de su relevancia en contextos de actividad profesional en los que la fiabilidad es fundamental como es el caso del laboratorio clínico y biomédico.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo2na27s-0wtrppdnw</odePageId>
+      <odeBlockId>block-1776327695010-fl2cgzjvl</odeBlockId>
+      <blockName>Relación con los ODS y Retos del S. XXI</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo2na27s-0wtrppdnw</odePageId>
+          <odeBlockId>block-1776327695010-fl2cgzjvl</odeBlockId>
+          <odeIdeviceId>idevice-1776327695007-59dsr8vwn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La Situación de Aprendizaje se relaciona directamente con los siguientes <strong>ODS</strong>:</p>
+<p><strong>4. Educación de calidad.</strong> La aplicación de metodologías innovadoras permite mejorar la calidad educativa ofrecida al alumnado.</p>
+<p><strong>8. Trabajo decente y crecimiento económico.</strong> El aprendizaje de habilidades relacionadas directamente con la práctica empresarial permitirá al alumnado adaptarse con mayor rapidez a diferentes entornos laborales.</p>
+<p><strong>9. Industria, innovación e infraestructura.</strong> Los PNTs son de aplicación directa en prácticamente cualquier proceso industrial, por lo que su aprendizaje dentro del sistema educativo es fundamental en el desarrollo de la industria de una sociedad.</p>
+<p><br /></p>
+<p>Al mismo tiempo, se relaciona con los siguientes <strong>Retos de la Educación para el S. XXI</strong>:</p>
+<p>- Analizar de manera crítica y aprovechar las oportunidades de todo tipo que ofrece la sociedad actual, en particular las de la cultura en la era digital, evaluando sus beneficios y riesgos y haciendo un uso ético y responsable que contribuya a la mejora de la calidad de vida personal y colectiva.</p>
+<p>El uso de herramientas digitales, especialmente la posibilidad de emplear la IA para realizar parte de la tarea desemboca en la percepción por parte del alumnado del poder de este tipo de recursos en el cambio personal y social.</p>
+<p>- Sentirse parte de un proyecto colectivo, tanto en el ámbito local como en el global, desarrollando empatía y generosidad.</p>
+<p>La agrupación del alumnado de 4 en 4 así como el intercambio de PNTs para su corrección les dará un sentimiento de pertenencia al grupo-clase mayor que el percibido habitualmente en el desarrollo de tareas individuales.</p>
+<p>- Desarrollar las habilidades que le permitan seguir aprendiendo a lo largo de la vida, desde la confianza en el conocimiento como motor del desarrollo y la valoración crítica de los riesgos y beneficios de este último.</p>
+<p>El aprendizaje por descubrimiento grupal permitirá desarrollar aprendizajes significativos relacionados con la autopercepción del aprendizaje, lo que implicará una mayor comprensión del metaaprendizaje y los procesos de aprendizaje del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776327695007-59dsr8vwn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La Situación de Aprendizaje se relaciona directamente con los siguientes <strong>ODS</strong>:</p>\n<p><strong>4. Educación de calidad.</strong> La aplicación de metodologías innovadoras permite mejorar la calidad educativa ofrecida al alumnado.</p>\n<p><strong>8. Trabajo decente y crecimiento económico.</strong> El aprendizaje de habilidades relacionadas directamente con la práctica empresarial permitirá al alumnado adaptarse con mayor rapidez a diferentes entornos laborales.</p>\n<p><strong>9. Industria, innovación e infraestructura.</strong> Los PNTs son de aplicación directa en prácticamente cualquier proceso industrial, por lo que su aprendizaje dentro del sistema educativo es fundamental en el desarrollo de la industria de una sociedad.</p>\n<p><br /></p>\n<p>Al mismo tiempo, se relaciona con los siguientes <strong>Retos de la Educación para el S. XXI</strong>:</p>\n<p>- Analizar de manera crítica y aprovechar las oportunidades de todo tipo que ofrece la sociedad actual, en particular las de la cultura en la era digital, evaluando sus beneficios y riesgos y haciendo un uso ético y responsable que contribuya a la mejora de la calidad de vida personal y colectiva.</p>\n<p>El uso de herramientas digitales, especialmente la posibilidad de emplear la IA para realizar parte de la tarea desemboca en la percepción por parte del alumnado del poder de este tipo de recursos en el cambio personal y social.</p>\n<p>- Sentirse parte de un proyecto colectivo, tanto en el ámbito local como en el global, desarrollando empatía y generosidad.</p>\n<p>La agrupación del alumnado de 4 en 4 así como el intercambio de PNTs para su corrección les dará un sentimiento de pertenencia al grupo-clase mayor que el percibido habitualmente en el desarrollo de tareas individuales.</p>\n<p>- Desarrollar las habilidades que le permitan seguir aprendiendo a lo largo de la vida, desde la confianza en el conocimiento como motor del desarrollo y la valoración crítica de los riesgos y beneficios de este último.</p>\n<p>El aprendizaje por descubrimiento grupal permitirá desarrollar aprendizajes significativos relacionados con la autopercepción del aprendizaje, lo que implicará una mayor comprensión del metaaprendizaje y los procesos de aprendizaje del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo2na27s-mqbt7oijv</odePageId>
+  <odeParentPageId>page-mo2na27p-n0s8b68kp</odeParentPageId>
+  <pageName>2. Elementos curriculares.</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo2na27s-mqbt7oijv</odePageId>
+      <odeBlockId>block-1776329097520-4izoa1pn1</odeBlockId>
+      <blockName>Objetivos del módulo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo2na27s-mqbt7oijv</odePageId>
+          <odeBlockId>block-1776329097520-4izoa1pn1</odeBlockId>
+          <odeIdeviceId>idevice-1776329097516-ttye363e5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Según el Real Decreto 771/2014, de 12 de septiembre, por el que se establece el título de Técnico Superior en Laboratorio Clínico y Biomédico y se fijan sus enseñanzas mínimas, la formación del módulo contribuye a alcanzar los objetivos generales c), d), g), h), e i) del ciclo formativo.</p>
+<p><strong>Objetivos:</strong></p>
+<p>c) Utilizar aplicaciones informáticas para cumplimentar la documentación de gestión.<br />d) Aplicar técnicas de control de existencias para organizar y gestionar el área de<br />trabajo.<br />g) Cumplimentar la documentación relacionada con el procesamiento de las<br />muestras, según los procedimientos de codificación y registro, para asegurar la<br />trazabilidad.<br />h) Preparar reactivos según las demandas del proceso, manteniéndolos en<br />condiciones óptimas.<br />i) Aplicar procedimientos de puesta en marcha y mantenimiento para verificar el<br />funcionamiento del equipo.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776329097516-ttye363e5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Según el Real Decreto 771/2014, de 12 de septiembre, por el que se establece el título de Técnico Superior en Laboratorio Clínico y Biomédico y se fijan sus enseñanzas mínimas, la formación del módulo contribuye a alcanzar los objetivos generales c), d), g), h), e i) del ciclo formativo.</p>\n<p><strong>Objetivos:</strong></p>\n<p>c) Utilizar aplicaciones informáticas para cumplimentar la documentación de gestión.<br />d) Aplicar técnicas de control de existencias para organizar y gestionar el área de<br />trabajo.<br />g) Cumplimentar la documentación relacionada con el procesamiento de las<br />muestras, según los procedimientos de codificación y registro, para asegurar la<br />trazabilidad.<br />h) Preparar reactivos según las demandas del proceso, manteniéndolos en<br />condiciones óptimas.<br />i) Aplicar procedimientos de puesta en marcha y mantenimiento para verificar el<br />funcionamiento del equipo.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo2na27s-mqbt7oijv</odePageId>
+      <odeBlockId>block-1776329501664-z8k4tbvjk</odeBlockId>
+      <blockName>Resultados de aprendizaje movilizados</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo2na27s-mqbt7oijv</odePageId>
+          <odeBlockId>block-1776329501664-z8k4tbvjk</odeBlockId>
+          <odeIdeviceId>idevice-1776329501660-cvqmlmqeo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La tarea moviliza los siguientes Resultados de Aprendizaje y Criterios de Evaluación:</p>
+<p><strong>RA1: Clasifica los materiales, los equipos básicos y los reactivos utilizados en laboratorio, describiendo su utilización y mantenimiento.</strong></p>
+<p>a) Se ha identificado el tipo de material del laboratorio.<br />b) Se han identificado las técnicas de limpieza, desinfección y esterilización que se van a emplear en el laboratorio.<br />c) Se han identificado los diferentes tipos de agua y sus métodos de obtención.<br />d) Se han identificado los reactivos atendiendo a su naturaleza química y a su pureza.<br />e) Se han identificado los equipos básicos y los instrumentos del laboratorio y sus aplicaciones.<br />f) Se han interpretado los procedimientos normalizados de trabajo (PNT) para la utilización y mantenimiento de los equipos básicos e instrumentos del laboratorio.<br /></p>
+<p><strong>RA2: Aplica los protocolos de seguridad y prevención de riesgos en la manipulación de productos químicos y biológicos, interpretando la normativa vigente.</strong></p>
+<p>a)Se han identificado los riesgos asociados a los reactivos químicos, radiactivos y biológicos.<br />b) Se han seguido los protocolos de prevención de riesgos físicos, químicos y biológicos durante la manipulación de los mismos.<br />c) Se han identificado los requisitos normativos referentes al tratamiento y a la eliminación de residuos químicos, radiactivos y biosanitarios generados en el laboratorio.<br />d) Se ha organizado la eliminación de residuos en el trabajo, con orden, higiene y método.<br />e) Se han identificado los riesgos específicos de los equipos de laboratorio.<br />f) Se han seleccionado las técnicas y los equipos de prevención y protección individual y colectiva.<br />g) Se ha definido el significado y el alcance de los distintos tipos de señalización de seguridad.<br />h) Se ha determinado la aplicación y el registro de los protocolos de actuación en caso de emergencia.<br />i) Se ha valorado la importancia del cumplimiento de las normas de seguridad.</p>
+<p><strong>RA3: Realiza disoluciones y diluciones de muestras y reactivos, justificando cálculos de masas, volúmenes y concentraciones.</strong></p>
+<p>a) Se han identificado las reacciones que tienen lugar en el proceso de preparación de una disolución.<br />b) Se han calculado las masas, los volúmenes y las concentraciones de los reactivos implicados en una reacción dada, aplicando las leyes químicas.<br />c) Se han expresado las disoluciones en distintas unidades de concentración.<br />d) Se han seleccionado los materiales volumétricos y los reactivos necesarios en la preparación de disoluciones y diluciones.<br />e) Se han definido los métodos de cálculo y medida electroquímica del pH.<br />f) Se han identificado los componentes y el funcionamiento del pHmetro.<br />g) Se ha preparado y calibrado el pHmetro en función de los procedimientos normalizados de trabajo.<br />h) Se han realizado determinaciones de pH mediante el pHmetro.<br />i) Se han realizado curvas de titulación mediante técnicas electroquímicas.</p>
+<p><strong>RA7: Aplica sistemas de gestión de calidad en el laboratorio clínico y de anatomía patológica, analizando las normas de calidad.</strong></p>
+<p>a) Se han identificado las distintas normas de calidad aplicables en el laboratorio clínico y en anatomía patológica.<br />b) Se han explicado las ventajas de la normalización y la gestión de la calidad.<br />c) Se han relacionado los elementos del sistema de calidad con la actividad del laboratorio.<br />d) Se han aplicado las normas de calidad.<br />e) Se han identificado los documentos empleados en un sistema de gestión de calidad.<br />f) Se han documentado los procedimientos de la actividad del laboratorio.<br />g) Se han identificado los tipos de auditoría relacionándolos con la evaluación de la calidad.<br />h) Se ha valorado la importancia de la gestión de la calidad en el laboratorio.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776329501660-cvqmlmqeo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La tarea moviliza los siguientes Resultados de Aprendizaje y Criterios de Evaluación:</p>\n<p><strong>RA1: Clasifica los materiales, los equipos básicos y los reactivos utilizados en laboratorio, describiendo su utilización y mantenimiento.</strong></p>\n<p>a) Se ha identificado el tipo de material del laboratorio.<br />b) Se han identificado las técnicas de limpieza, desinfección y esterilización que se van a emplear en el laboratorio.<br />c) Se han identificado los diferentes tipos de agua y sus métodos de obtención.<br />d) Se han identificado los reactivos atendiendo a su naturaleza química y a su pureza.<br />e) Se han identificado los equipos básicos y los instrumentos del laboratorio y sus aplicaciones.<br />f) Se han interpretado los procedimientos normalizados de trabajo (PNT) para la utilización y mantenimiento de los equipos básicos e instrumentos del laboratorio.<br /></p>\n<p><strong>RA2: Aplica los protocolos de seguridad y prevención de riesgos en la manipulación de productos químicos y biológicos, interpretando la normativa vigente.</strong></p>\n<p>a)Se han identificado los riesgos asociados a los reactivos químicos, radiactivos y biológicos.<br />b) Se han seguido los protocolos de prevención de riesgos físicos, químicos y biológicos durante la manipulación de los mismos.<br />c) Se han identificado los requisitos normativos referentes al tratamiento y a la eliminación de residuos químicos, radiactivos y biosanitarios generados en el laboratorio.<br />d) Se ha organizado la eliminación de residuos en el trabajo, con orden, higiene y método.<br />e) Se han identificado los riesgos específicos de los equipos de laboratorio.<br />f) Se han seleccionado las técnicas y los equipos de prevención y protección individual y colectiva.<br />g) Se ha definido el significado y el alcance de los distintos tipos de señalización de seguridad.<br />h) Se ha determinado la aplicación y el registro de los protocolos de actuación en caso de emergencia.<br />i) Se ha valorado la importancia del cumplimiento de las normas de seguridad.</p>\n<p><strong>RA3: Realiza disoluciones y diluciones de muestras y reactivos, justificando cálculos de masas, volúmenes y concentraciones.</strong></p>\n<p>a) Se han identificado las reacciones que tienen lugar en el proceso de preparación de una disolución.<br />b) Se han calculado las masas, los volúmenes y las concentraciones de los reactivos implicados en una reacción dada, aplicando las leyes químicas.<br />c) Se han expresado las disoluciones en distintas unidades de concentración.<br />d) Se han seleccionado los materiales volumétricos y los reactivos necesarios en la preparación de disoluciones y diluciones.<br />e) Se han definido los métodos de cálculo y medida electroquímica del pH.<br />f) Se han identificado los componentes y el funcionamiento del pHmetro.<br />g) Se ha preparado y calibrado el pHmetro en función de los procedimientos normalizados de trabajo.<br />h) Se han realizado determinaciones de pH mediante el pHmetro.<br />i) Se han realizado curvas de titulación mediante técnicas electroquímicas.</p>\n<p><strong>RA7: Aplica sistemas de gestión de calidad en el laboratorio clínico y de anatomía patológica, analizando las normas de calidad.</strong></p>\n<p>a) Se han identificado las distintas normas de calidad aplicables en el laboratorio clínico y en anatomía patológica.<br />b) Se han explicado las ventajas de la normalización y la gestión de la calidad.<br />c) Se han relacionado los elementos del sistema de calidad con la actividad del laboratorio.<br />d) Se han aplicado las normas de calidad.<br />e) Se han identificado los documentos empleados en un sistema de gestión de calidad.<br />f) Se han documentado los procedimientos de la actividad del laboratorio.<br />g) Se han identificado los tipos de auditoría relacionándolos con la evaluación de la calidad.<br />h) Se ha valorado la importancia de la gestión de la calidad en el laboratorio.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo2na27s-mqbt7oijv</odePageId>
+      <odeBlockId>block-1776332882110-ykm9zk5g5</odeBlockId>
+      <blockName>Contenidos básicos integrados en la SdA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo2na27s-mqbt7oijv</odePageId>
+          <odeBlockId>block-1776332882110-ykm9zk5g5</odeBlockId>
+          <odeIdeviceId>idevice-1776332882105-42iga8ke8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>RA 1. Clasificación de materiales, equipos básicos y reactivos:</p>
+<ul>
+<li>Tipos de materiales y utilización.</li>
+<li>Limpieza, desinfección y esterilización del material de laboratorio.</li>
+<li>El agua de laboratorio.</li>
+<li>Reactivos químicos en el laboratorio clínico y en anatomía patológica.</li>
+<li>Equipos básicos utilizados en el laboratorio y en anatomía patológica.</li>
+<li>Uso eficiente de los recursos.</li>
+<li>Procedimientos normalizados de trabajo.</li>
+</ul>
+<p>RA 2. Aplicación de protocolos de seguridad y prevención de riesgos en el laboratorio:</p>
+<ul>
+<li>Reactivos químicos, radiactivos y biológicos.</li>
+<li>Prevención del riesgo del trabajo con productos químicos, radiactivos y biológicos.</li>
+<li>Prevención de riesgos relativos a equipos de laboratorio.</li>
+<li>Gestión de residuos. Normativa vigente.</li>
+<li>Determinación de las medidas de prevención y protección personal.</li>
+<li>Protocolo de actuación ante una situación de emergencia. Plan de emergencia.<br /></li>
+</ul>
+<p>RA 3. Realización de disoluciones y diluciones:</p>
+<ul>
+<li>Medidas de masa mediante balanza de precisión.</li>
+<li>Medidas de volumen mediante material volumétrico.</li>
+<li>Cálculo y preparación de disoluciones.</li>
+<li>Cálculo y preparación de diluciones.</li>
+<li>Métodos electroquímicos: el pHímetro.</li>
+<li>Valoraciones ácido-base.<br /></li>
+</ul>
+<p>RA 7. Aplicación de sistemas de gestión de la calidad en el laboratorio:</p>
+<ul>
+<li>Calidad, sistema de gestión de calidad y aseguramiento de la calidad.</li>
+<li>Normas de calidad en el laboratorio.</li>
+<li>Documentos de la calidad.</li>
+<li>Certificación y acreditación del laboratorio.</li>
+<li>Auditoría y evaluación de la calidad.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776332882105-42iga8ke8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>RA 1. Clasificación de materiales, equipos básicos y reactivos:</p>\n<ul>\n<li>Tipos de materiales y utilización.</li>\n<li>Limpieza, desinfección y esterilización del material de laboratorio.</li>\n<li>El agua de laboratorio.</li>\n<li>Reactivos químicos en el laboratorio clínico y en anatomía patológica.</li>\n<li>Equipos básicos utilizados en el laboratorio y en anatomía patológica.</li>\n<li>Uso eficiente de los recursos.</li>\n<li>Procedimientos normalizados de trabajo.</li>\n</ul>\n<p>RA 2. Aplicación de protocolos de seguridad y prevención de riesgos en el laboratorio:</p>\n<ul>\n<li>Reactivos químicos, radiactivos y biológicos.</li>\n<li>Prevención del riesgo del trabajo con productos químicos, radiactivos y biológicos.</li>\n<li>Prevención de riesgos relativos a equipos de laboratorio.</li>\n<li>Gestión de residuos. Normativa vigente.</li>\n<li>Determinación de las medidas de prevención y protección personal.</li>\n<li>Protocolo de actuación ante una situación de emergencia. Plan de emergencia.<br /></li>\n</ul>\n<p>RA 3. Realización de disoluciones y diluciones:</p>\n<ul>\n<li>Medidas de masa mediante balanza de precisión.</li>\n<li>Medidas de volumen mediante material volumétrico.</li>\n<li>Cálculo y preparación de disoluciones.</li>\n<li>Cálculo y preparación de diluciones.</li>\n<li>Métodos electroquímicos: el pHímetro.</li>\n<li>Valoraciones ácido-base.<br /></li>\n</ul>\n<p>RA 7. Aplicación de sistemas de gestión de la calidad en el laboratorio:</p>\n<ul>\n<li>Calidad, sistema de gestión de calidad y aseguramiento de la calidad.</li>\n<li>Normas de calidad en el laboratorio.</li>\n<li>Documentos de la calidad.</li>\n<li>Certificación y acreditación del laboratorio.</li>\n<li>Auditoría y evaluación de la calidad.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo2na27t-ribafmeyp</odePageId>
+  <odeParentPageId>page-mo2na27p-n0s8b68kp</odeParentPageId>
+  <pageName>3. Metodologías activas.</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo2na27t-ribafmeyp</odePageId>
+      <odeBlockId>block-1776333916558-imthqe97w</odeBlockId>
+      <blockName>Metodologías activas aplicadas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo2na27t-ribafmeyp</odePageId>
+          <odeBlockId>block-1776333916558-imthqe97w</odeBlockId>
+          <odeIdeviceId>idevice-1776333916554-63ptjgepg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta SdA se aplicará la metodología activa de aprendizaje cooperativo. Esto se pondrá de manifiesto especialmente a la hora de diseñar el PNT y a la hora de ejecutarlo. En esos casos el alumnado se repartirá las tareas a realizar de forma autónoma dado que se trata de un CFGS.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776333916554-63ptjgepg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta SdA se aplicará la metodología activa de aprendizaje cooperativo. Esto se pondrá de manifiesto especialmente a la hora de diseñar el PNT y a la hora de ejecutarlo. En esos casos el alumnado se repartirá las tareas a realizar de forma autónoma dado que se trata de un CFGS.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo2na27t-yrt8198q4</odePageId>
+  <odeParentPageId>page-mo2na27p-n0s8b68kp</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro.</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo2na27t-yrt8198q4</odePageId>
+      <odeBlockId>block-1776335714363-jyevj94u4</odeBlockId>
+      <blockName>Plan digital del centro</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo2na27t-yrt8198q4</odePageId>
+          <odeBlockId>block-1776335714363-jyevj94u4</odeBlockId>
+          <odeIdeviceId>idevice-1776335714359-amtlx6asu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el desarrollo de la SdA se emplearán herramientas digitales relacionadas con el plan digital del centro. Entre otras cosas, se emplearán los portátiles disponibles en la Sala de Usos Múltiples y diversas herramientas digitales que permitirán al alumnado desarrollar competencias digitales como el uso de aplicaciones de IA o de edición digital para la elaboración de la infografía y/o la edición de vídeo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776335714359-amtlx6asu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el desarrollo de la SdA se emplearán herramientas digitales relacionadas con el plan digital del centro. Entre otras cosas, se emplearán los portátiles disponibles en la Sala de Usos Múltiples y diversas herramientas digitales que permitirán al alumnado desarrollar competencias digitales como el uso de aplicaciones de IA o de edición digital para la elaboración de la infografía y/o la edición de vídeo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo2na27t-p4sd9mvgb</odePageId>
+  <odeParentPageId>page-mo2na27p-n0s8b68kp</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares.</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo2na27t-p4sd9mvgb</odePageId>
+      <odeBlockId>block-1776336628101-fk0s7t5xa</odeBlockId>
+      <blockName>Relación con actividades complementarias</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo2na27t-p4sd9mvgb</odePageId>
+          <odeBlockId>block-1776336628101-fk0s7t5xa</odeBlockId>
+          <odeIdeviceId>idevice-1776336628097-y2qus1wkp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La SdA no tiene relación con actividades complementarias y extraescolares realizadas por el alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776336628097-y2qus1wkp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La SdA no tiene relación con actividades complementarias y extraescolares realizadas por el alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo2na27u-t7by65yqs</odePageId>
+  <odeParentPageId>page-mo2na27p-n0s8b68kp</odeParentPageId>
+  <pageName>6. Atribución y descarga.</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo2na27u-t7by65yqs</odePageId>
+      <odeBlockId>block-1776337449338-dzl567c8y</odeBlockId>
+      <blockName>Licencia Creative Commons 4.0</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo2na27u-t7by65yqs</odePageId>
+          <odeBlockId>block-1776337449338-dzl567c8y</odeBlockId>
+          <odeIdeviceId>idevice-1776337449334-4c7voydkd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/creative commons 40.png" width="826" height="239" alt="" /><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776337449334-4c7voydkd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/creative commons 40.png\" width=\"826\" height=\"239\" alt=\"\" /><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo2na27u-t7by65yqs</odePageId>
+      <odeBlockId>block-1776338236289-4j3sgo093</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo2na27u-t7by65yqs</odePageId>
+          <odeBlockId>block-1776338236289-4j3sgo093</odeBlockId>
+          <odeIdeviceId>idevice-1776338236287-zmcj8d2ym</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SDA B2 DIGITALIZACION</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje para trabajar los contenidos del RA de calidad del módulo Técnicas Generales de Laboratorio del CFGS de Laboratorio Clínico y Biomédico.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Octavio Barrientos Álvarez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#f71818;color:#000000;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
