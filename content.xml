@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>202604171027458MBLOE</value>
+    <value>202604231044323K6KEM</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260417102745CCKH3R</value>
+    <value>20260423104432YVXS9J</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1776414419148</value>
+    <value>1776933598828</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -89,7 +89,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mo2na27p-n0s8b68kp</odePageId>
+  <odePageId>page-mob8dvte-wgedyz998</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Elaboración de un PNT para preparar disoluciones.</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -125,7 +125,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo2na27p-n0s8b68kp</odePageId>
+      <odePageId>page-mob8dvte-wgedyz998</odePageId>
       <odeBlockId>block-1776324975868-rlfp3sw0j</odeBlockId>
       <blockName>Etapa educativa, nivel y módulos</blockName>
       <iconName></iconName>
@@ -154,7 +154,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo2na27p-n0s8b68kp</odePageId>
+          <odePageId>page-mob8dvte-wgedyz998</odePageId>
           <odeBlockId>block-1776324975868-rlfp3sw0j</odeBlockId>
           <odeIdeviceId>idevice-1776324975864-7hjot4310</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -181,7 +181,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mo2na27p-n0s8b68kp</odePageId>
+      <odePageId>page-mob8dvte-wgedyz998</odePageId>
       <odeBlockId>block-1776325538451-otgek184o</odeBlockId>
       <blockName>Agrupamientos y organización espacial</blockName>
       <iconName></iconName>
@@ -210,7 +210,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo2na27p-n0s8b68kp</odePageId>
+          <odePageId>page-mob8dvte-wgedyz998</odePageId>
           <odeBlockId>block-1776325538451-otgek184o</odeBlockId>
           <odeIdeviceId>idevice-1776325538449-24wf0v27x</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -237,7 +237,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mo2na27p-n0s8b68kp</odePageId>
+      <odePageId>page-mob8dvte-wgedyz998</odePageId>
       <odeBlockId>block-1776326136642-edgdf2yba</odeBlockId>
       <blockName>Desarrollo de la tarea</blockName>
       <iconName></iconName>
@@ -266,7 +266,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo2na27p-n0s8b68kp</odePageId>
+          <odePageId>page-mob8dvte-wgedyz998</odePageId>
           <odeBlockId>block-1776326136642-edgdf2yba</odeBlockId>
           <odeIdeviceId>idevice-1776326136638-61j4h81j7</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -295,7 +295,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mo2na27p-n0s8b68kp</odePageId>
+      <odePageId>page-mob8dvte-wgedyz998</odePageId>
       <odeBlockId>block-1776326869563-t6agwpxhh</odeBlockId>
       <blockName>Recursos tecnológicos empleados</blockName>
       <iconName></iconName>
@@ -324,7 +324,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo2na27p-n0s8b68kp</odePageId>
+          <odePageId>page-mob8dvte-wgedyz998</odePageId>
           <odeBlockId>block-1776326869563-t6agwpxhh</odeBlockId>
           <odeIdeviceId>idevice-1776326869559-5y2l7fqel</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -356,8 +356,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo2na27s-0wtrppdnw</odePageId>
-  <odeParentPageId>page-mo2na27p-n0s8b68kp</odeParentPageId>
+  <odePageId>page-mob8dvth-udmxqx4y2</odePageId>
+  <odeParentPageId>page-mob8dvte-wgedyz998</odeParentPageId>
   <pageName>1. Intención educativa</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -392,7 +392,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo2na27s-0wtrppdnw</odePageId>
+      <odePageId>page-mob8dvth-udmxqx4y2</odePageId>
       <odeBlockId>block-1776327372740-npxyk605y</odeBlockId>
       <blockName>Justificación del desarrollo</blockName>
       <iconName></iconName>
@@ -421,7 +421,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo2na27s-0wtrppdnw</odePageId>
+          <odePageId>page-mob8dvth-udmxqx4y2</odePageId>
           <odeBlockId>block-1776327372740-npxyk605y</odeBlockId>
           <odeIdeviceId>idevice-1776327372737-pjz9pzmyv</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -450,7 +450,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mo2na27s-0wtrppdnw</odePageId>
+      <odePageId>page-mob8dvth-udmxqx4y2</odePageId>
       <odeBlockId>block-1776327695010-fl2cgzjvl</odeBlockId>
       <blockName>Relación con los ODS y Retos del S. XXI</blockName>
       <iconName></iconName>
@@ -479,7 +479,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo2na27s-0wtrppdnw</odePageId>
+          <odePageId>page-mob8dvth-udmxqx4y2</odePageId>
           <odeBlockId>block-1776327695010-fl2cgzjvl</odeBlockId>
           <odeIdeviceId>idevice-1776327695007-59dsr8vwn</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -519,8 +519,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo2na27s-mqbt7oijv</odePageId>
-  <odeParentPageId>page-mo2na27p-n0s8b68kp</odeParentPageId>
+  <odePageId>page-mob8dvti-1vrwao8ig</odePageId>
+  <odeParentPageId>page-mob8dvte-wgedyz998</odeParentPageId>
   <pageName>2. Elementos curriculares.</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -555,7 +555,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo2na27s-mqbt7oijv</odePageId>
+      <odePageId>page-mob8dvti-1vrwao8ig</odePageId>
       <odeBlockId>block-1776329097520-4izoa1pn1</odeBlockId>
       <blockName>Objetivos del módulo</blockName>
       <iconName></iconName>
@@ -584,7 +584,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo2na27s-mqbt7oijv</odePageId>
+          <odePageId>page-mob8dvti-1vrwao8ig</odePageId>
           <odeBlockId>block-1776329097520-4izoa1pn1</odeBlockId>
           <odeIdeviceId>idevice-1776329097516-ttye363e5</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -614,7 +614,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mo2na27s-mqbt7oijv</odePageId>
+      <odePageId>page-mob8dvti-1vrwao8ig</odePageId>
       <odeBlockId>block-1776329501664-z8k4tbvjk</odeBlockId>
       <blockName>Resultados de aprendizaje movilizados</blockName>
       <iconName></iconName>
@@ -643,7 +643,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo2na27s-mqbt7oijv</odePageId>
+          <odePageId>page-mob8dvti-1vrwao8ig</odePageId>
           <odeBlockId>block-1776329501664-z8k4tbvjk</odeBlockId>
           <odeIdeviceId>idevice-1776329501660-cvqmlmqeo</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -678,7 +678,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mo2na27s-mqbt7oijv</odePageId>
+      <odePageId>page-mob8dvti-1vrwao8ig</odePageId>
       <odeBlockId>block-1776332882110-ykm9zk5g5</odeBlockId>
       <blockName>Contenidos básicos integrados en la SdA</blockName>
       <iconName></iconName>
@@ -707,7 +707,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo2na27s-mqbt7oijv</odePageId>
+          <odePageId>page-mob8dvti-1vrwao8ig</odePageId>
           <odeBlockId>block-1776332882110-ykm9zk5g5</odeBlockId>
           <odeIdeviceId>idevice-1776332882105-42iga8ke8</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -771,8 +771,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo2na27t-ribafmeyp</odePageId>
-  <odeParentPageId>page-mo2na27p-n0s8b68kp</odeParentPageId>
+  <odePageId>page-mob8dvtj-8olkyhp9o</odePageId>
+  <odeParentPageId>page-mob8dvte-wgedyz998</odeParentPageId>
   <pageName>3. Metodologías activas.</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -807,7 +807,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo2na27t-ribafmeyp</odePageId>
+      <odePageId>page-mob8dvtj-8olkyhp9o</odePageId>
       <odeBlockId>block-1776333916558-imthqe97w</odeBlockId>
       <blockName>Metodologías activas aplicadas</blockName>
       <iconName></iconName>
@@ -836,7 +836,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo2na27t-ribafmeyp</odePageId>
+          <odePageId>page-mob8dvtj-8olkyhp9o</odePageId>
           <odeBlockId>block-1776333916558-imthqe97w</odeBlockId>
           <odeIdeviceId>idevice-1776333916554-63ptjgepg</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -865,8 +865,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo2na27t-yrt8198q4</odePageId>
-  <odeParentPageId>page-mo2na27p-n0s8b68kp</odeParentPageId>
+  <odePageId>page-mob8dvtj-8f5cpqvu6</odePageId>
+  <odeParentPageId>page-mob8dvte-wgedyz998</odeParentPageId>
   <pageName>4. Vinculación con los proyectos y programas del centro.</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -901,7 +901,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo2na27t-yrt8198q4</odePageId>
+      <odePageId>page-mob8dvtj-8f5cpqvu6</odePageId>
       <odeBlockId>block-1776335714363-jyevj94u4</odeBlockId>
       <blockName>Plan digital del centro</blockName>
       <iconName></iconName>
@@ -930,7 +930,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo2na27t-yrt8198q4</odePageId>
+          <odePageId>page-mob8dvtj-8f5cpqvu6</odePageId>
           <odeBlockId>block-1776335714363-jyevj94u4</odeBlockId>
           <odeIdeviceId>idevice-1776335714359-amtlx6asu</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -959,8 +959,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo2na27t-p4sd9mvgb</odePageId>
-  <odeParentPageId>page-mo2na27p-n0s8b68kp</odeParentPageId>
+  <odePageId>page-mob8dvtj-jvz31q7ms</odePageId>
+  <odeParentPageId>page-mob8dvte-wgedyz998</odeParentPageId>
   <pageName>5. Actividades complementarias y extraescolares.</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -995,7 +995,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo2na27t-p4sd9mvgb</odePageId>
+      <odePageId>page-mob8dvtj-jvz31q7ms</odePageId>
       <odeBlockId>block-1776336628101-fk0s7t5xa</odeBlockId>
       <blockName>Relación con actividades complementarias</blockName>
       <iconName></iconName>
@@ -1024,14 +1024,15 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo2na27t-p4sd9mvgb</odePageId>
+          <odePageId>page-mob8dvtj-jvz31q7ms</odePageId>
           <odeBlockId>block-1776336628101-fk0s7t5xa</odeBlockId>
           <odeIdeviceId>idevice-1776336628097-y2qus1wkp</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>La SdA no tiene relación con actividades complementarias y extraescolares realizadas por el alumnado.</p>
+    <p>Se propone una visita al Laboratorio Interprofesional de Lácteos de Asturias (LILA) donde se podrá observar la aplicación de procedimientos normalizados de trabajo (PNT) en un laboratorio. </p>
+<p>Esta visita se podría reemplazar por visitas a otros laboratorios más o menos afines a la rama clínica, donde se manejen PNTs y otros procedimientos relacionados con el cumplimiento de normas de calidad, especialmente la ISO 9001.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776336628097-y2qus1wkp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La SdA no tiene relación con actividades complementarias y extraescolares realizadas por el alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776336628097-y2qus1wkp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se propone una visita al Laboratorio Interprofesional de Lácteos de Asturias (LILA) donde se podrá observar la aplicación de procedimientos normalizados de trabajo (PNT) en un laboratorio. </p>\n<p>Esta visita se podría reemplazar por visitas a otros laboratorios más o menos afines a la rama clínica, donde se manejen PNTs y otros procedimientos relacionados con el cumplimiento de normas de calidad, especialmente la ISO 9001.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1053,8 +1054,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo2na27u-t7by65yqs</odePageId>
-  <odeParentPageId>page-mo2na27p-n0s8b68kp</odeParentPageId>
+  <odePageId>page-mob8dvtj-edzh9ug6w</odePageId>
+  <odeParentPageId>page-mob8dvte-wgedyz998</odeParentPageId>
   <pageName>6. Atribución y descarga.</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1089,7 +1090,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo2na27u-t7by65yqs</odePageId>
+      <odePageId>page-mob8dvtj-edzh9ug6w</odePageId>
       <odeBlockId>block-1776337449338-dzl567c8y</odeBlockId>
       <blockName>Licencia Creative Commons 4.0</blockName>
       <iconName></iconName>
@@ -1118,7 +1119,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo2na27u-t7by65yqs</odePageId>
+          <odePageId>page-mob8dvtj-edzh9ug6w</odePageId>
           <odeBlockId>block-1776337449338-dzl567c8y</odeBlockId>
           <odeIdeviceId>idevice-1776337449334-4c7voydkd</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1146,7 +1147,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mo2na27u-t7by65yqs</odePageId>
+      <odePageId>page-mob8dvtj-edzh9ug6w</odePageId>
       <odeBlockId>block-1776338236289-4j3sgo093</odeBlockId>
       <blockName>Descargar el archivo fuente</blockName>
       <iconName></iconName>
@@ -1175,7 +1176,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo2na27u-t7by65yqs</odePageId>
+          <odePageId>page-mob8dvtj-edzh9ug6w</odePageId>
           <odeBlockId>block-1776338236289-4j3sgo093</odeBlockId>
           <odeIdeviceId>idevice-1776338236287-zmcj8d2ym</odeIdeviceId>
           <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
